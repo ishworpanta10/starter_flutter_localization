@@ -2,5 +2,20 @@
   "appTitle": "localization_flutter_riverpod",
   "@appTitle": {
     "description": "The title of the application"
+  },
+
+  "itemDetails": "Item Details",
+  "@itemDetails": {
+    "description": "Title of the Item Details Page"
+  },
+
+  "moreInformationHere": "More Information Here",
+  "@moreInformationHere": {
+    "description": "Body of the Item Details Page"
+  },
+
+  "settings": "Settings",
+  "@settings": {
+    "description": "Body of the Setting Page"
   }
 }
